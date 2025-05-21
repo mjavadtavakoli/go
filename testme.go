@@ -1,9 +1,11 @@
 package main
 
 import (
-	"testing"
+	"fmt"
 )
 
-func testJavad(t *testing.T) {
+func main() {
+
+	fmt.Println("hello word")
 
 }
